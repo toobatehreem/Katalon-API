@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>readfromfile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1013abc1-316b-43cc-a909-62319dc7ad94</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>01a1851b-3f73-408f-9885-c13d6a198ad5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
